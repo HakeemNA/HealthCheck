@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "HealthCheck", "HealthCheck\HealthCheck.esproj", "{0F0C856E-1D4E-43C2-8A19-2D6B51639F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheckAPI", "HealthCheckAPI\HealthCheckAPI.csproj", "{4661C9D4-202D-48F5-A8CA-347D94F7CFCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheckAPI", "HealthCheckAPI\HealthCheckAPI.csproj", "{4661C9D4-202D-48F5-A8CA-347D94F7CFCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
